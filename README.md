@@ -1,5 +1,7 @@
 # Simple module to make your JSON files management easily
 
+PyPl page - https://pypi.org/project/simplejsoner
+
 ## Installing
 
 ```bash
@@ -70,3 +72,4 @@ with SimpleJsoner("config.json") as cfg:
     host = cfg["database"]["host"]
     print(host)
 ```
+
