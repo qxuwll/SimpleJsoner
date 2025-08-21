@@ -1,6 +1,6 @@
 [project]
 name = "simplejsoner"
-version = "0.1.0"
+version = "0.1.3"
 description = ""
 authors = [
     {name = "qxuwll", email = "ivanskarupo23@gmail.com"}
